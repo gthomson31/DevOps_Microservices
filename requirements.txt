@@ -1,0 +1,16 @@
+Click
+Flask
+numpy==1.17.3
+pandas
+scikit-learn==0.20.3
+itsdangerous
+Jinja2
+joblib
+MarkupSafe
+python-dateutil
+pytz
+scipy
+six
+Werkzeug
+pylint
+circleci
